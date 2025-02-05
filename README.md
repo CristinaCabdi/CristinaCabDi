@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**CristinaCabdi/CristinaCabDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
 
-Here are some ideas to get you started:
+Soy una cooder en pleno aprendizaje. Me encanta cada progreso que realizo y siempre intento seguir formandome para poder seguir creciendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Habilidades
+
+- **Diseño Gráfico** 🎨
+- **UX/UI** 🖌️
+- **Desarrollo Web** 🌐
+
+## 😺 Pasatiempos
+
+- **Gatos** 🐱
+- **Fotografía** 📸
+
+
+## 🚀 Objetivos
+
+Estoy emocionada por seguir aprendiendo y creciendo en el campo del desarrollo de software.
+
+## 📫 Cómo contactarme
+
+- **Correo**: [cristinacaballerodiaz07@gmail.com](mailto:tu.email@example.com)
+- **LinkedIn**: [Cristina Caballero Díaz](https://linkedin.com/in/tu-perfil)
+
+
+¡Gracias por visitar mi perfil!
